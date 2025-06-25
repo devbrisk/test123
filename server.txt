@@ -1,4 +1,4 @@
-{
+[{
         "remarks": "💦 1 - VLESS F - Domain : 443",
         "log": {
             "loglevel": "warning"
@@ -194,4 +194,4 @@
             ]
         },
         "stats": {}
-    }
+    }]
